@@ -33,5 +33,4 @@
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EA6E9C?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/annettelam)
-[![GitHub](https://img.shields.io/badge/GitHub-EA6E9C?style=flat&logo=github&logoColor=white)](https://github.com/annettexlam)
 [![Email](https://img.shields.io/badge/Email-EA6E9C?style=flat)](mailto:annettexlam@hotmail.com)
