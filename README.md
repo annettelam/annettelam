@@ -1,6 +1,6 @@
 <h1 style="color:#D1607A; display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="vertical-align:middle; margin-right: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D1607A&width=435&lines=I'm+Annette+Lam;Software+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D1607A&width=435&lines=I'm+Annette+Lam;Software+Developer" alt="Typing SVG" />
 </h1>
 
 <p style="color:#D1607A;">A passionate software engineer and developer with experience in front-end and back-end development, agile methodologies, and working with various tools and technologies to build impactful solutions.</p>
