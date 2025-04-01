@@ -15,6 +15,7 @@ A passionate software engineer and developer with experience in front-end and ba
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-EA6E9C?style=flat&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-EA6E9C?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-EA6E9C?style=flat&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-EA6E9C?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-EA6E9C?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-EA6E9C?style=flat&logo=css3&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_API-EA6E9C?style=flat&logo=api&logoColor=white)
@@ -36,6 +37,8 @@ A passionate software engineer and developer with experience in front-end and ba
 ![AWS](https://img.shields.io/badge/AWS-EA6E9C?style=flat&logo=amazon-aws&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-EA6E9C?style=flat&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-EA6E9C?style=flat&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-EA6E9C?style=flat&logo=linux&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-EA6E9C?style=flat&logo=apache&logoColor=white)
 
 ## 🚀 **Practices & Methodologies**
 - Agile & Scrum Development
