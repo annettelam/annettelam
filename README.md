@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=EA6E9C&center=true&vCenter=true&width=600&lines=👋+hi%2C+i'm+annette+lam+🐸" alt="Typing SVG" />
-</div>
+# 👋 hi, i'm annette lam 🐸
 
 a passionate software engineer and developer with experience in frontend and backend development, agile methodologies, and working with various tools and technologies to build impactful solutions. ✨
 
