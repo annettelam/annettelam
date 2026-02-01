@@ -1,7 +1,8 @@
-# 👋 hi, i'm annette lam
-### software developer
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=EA6E9C&center=true&vCenter=true&width=600&lines=👋+hi%2C+i'm+annette+lam+🐸" alt="Typing SVG" />
+</div>
 
-a passionate software engineer and developer with experience in front-end and back-end development, agile methodologies, and working with various tools and technologies to build impactful solutions.
+a passionate software engineer and developer with experience in frontend and backend development, agile methodologies, and working with various tools and technologies to build impactful solutions. ✨
 
 ## 🛠 languages & frameworks
 ![C#](https://img.shields.io/badge/C%23-EA6E9C?style=flat&logo=c-sharp&logoColor=white)
@@ -49,5 +50,5 @@ a passionate software engineer and developer with experience in front-end and ba
 - machine learning integration
 
 ## 📫 connect with me
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px">](https://linkedin.com/in/annettelam)
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px">](mailto:annettexlam@hotmail.com)
+- [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px">](https://linkedin.com/in/annettelam)
+- [<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30px">](mailto:annettexlam@hotmail.com)
